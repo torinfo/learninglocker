@@ -1,6 +1,5 @@
 # This Repository has several changes!
 
-Please contact info@internetlehrer-gmbh.de
 
 
 [![Learning Locker Logo](https://i.imgur.com/hP1yFKL.png)](http://learninglocker.net)
